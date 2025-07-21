@@ -9,7 +9,7 @@ Freeze Dry Tracker helps you monitor freeze dry batches, track weight loss, add 
 ## 🆘 Need Help?
 
 ### Contact Support
-- **Email:** [your-email@domain.com]
+- **Email:** [pseguin@gmail.com]
 - **Response Time:** Within 24-48 hours
 - **For urgent issues:** Please include your iOS version and app version
 
@@ -72,36 +72,8 @@ A: Currently, data export isn't available, but it's on our feature roadmap. You 
 **Q: Can I use the app offline?**
 A: You can view existing data offline, but creating new batches and syncing requires an internet connection.
 
-## 🔄 Version History
-
-### Latest Updates
-Check the App Store for the most recent version and update notes.
-
-## 🤝 Contributing
-
-Found a typo in this documentation? Want to improve the FAQ? Feel free to:
-1. Fork this repository
-2. Make your changes
-3. Submit a pull request
-
-## 📋 System Requirements
-
-- **iOS:** 15.1 or later
-- **Storage:** ~50 MB
-- **Internet:** Required for account sync and new batch creation
-
-## 🔗 Links
-
-- **App Store:** [Download Freeze Dry Tracker](https://apps.apple.com/app/your-app-id)
-- **Privacy Policy:** [Link to privacy policy]
-- **Terms of Service:** [Link to terms]
-
 ## 🏷️ Tags
 
 freeze-dry, food-preservation, ios-app, batch-tracking, weight-monitoring, freeze-dryer, meal-prep, emergency-food, homesteading
 
 ---
-
-**Made with ❄️ by [Your Name/Company]**
-
-*Last updated: [Current Date]*
